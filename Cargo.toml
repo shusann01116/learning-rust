@@ -1,2 +1,2 @@
 [workspace]
-members = ["desing-patterns"]
+members = ["desing-patterns", "unsafe-rust"]
